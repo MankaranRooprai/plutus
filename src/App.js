@@ -8,6 +8,7 @@ import UncategorizedBudgetCard from "./components/UncategorizedBudgetCard"
 import TotalBudgetCard from "./components/TotalBudgetCard"
 import { useState } from "react"
 import { UNCATEGORIZED_BUDGET_ID, useBudgets } from "./contexts/BudgetsContext"
+import "./styles.css";
 
 function App() {
   const [showAddBudgetModal, setShowAddBudgetModal] = useState(false)
@@ -23,7 +24,26 @@ function App() {
 
   return (
     <>
-      <Container className="my-4">
+    <div className="top">
+      <div>
+        <a href="#bottom">
+        <Button className= "float" variant="outline-secondary" >
+          App
+        </Button>
+        </a>
+      </div>
+      <h1 className="title-shine">plutus</h1>
+
+    </div>
+
+    <div className="stats">
+      <h1>Financial Literacy Statistics</h1>
+      <div className="chain">
+
+      </div>
+    </div>
+    
+      <Container id = "bottom" className="my-4">
         <Stack direction="horizontal" gap="2" className="mb-4">
           <h1 className="me-auto">Budgets</h1>
           <Button variant="primary" onClick={() => setShowAddBudgetModal(true)}>

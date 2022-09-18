@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+/* .background-image-full {
+  kground-image: url('https://wallpaperaccess.com/full/251618.jpg');
+  height: 100vh;
+  width: auto;
+} */
+
+#firstmon {
+  animation-name:joe;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100vh;
+}
+
+.yo {
+  height: 100vh;
+  width: 100%;
+}
