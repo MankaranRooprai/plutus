@@ -1,10 +1,10 @@
 # Initial Screen (Background changes colour)
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/13322471/213938970-dc68a7b6-90de-4612-8589-90ff164e7bf4.png">
 
-# Budgets Section
+# Added a Budget
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/13322471/213938996-8afab58f-fa1d-4ad5-b46d-a9341637949e.png">
 
-# Added a Budget
+# Expense Added to Budget
 <img width="622" alt="image" src="https://user-images.githubusercontent.com/13322471/213939021-22cb576c-5be5-47de-9270-f75ab4f2e836.png">
 
 # Expense Added to Budget
