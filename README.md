@@ -1,9 +1,16 @@
-Followed along tutorial made by Web Dev Simplified.
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/13322471/213938970-dc68a7b6-90de-4612-8589-90ff164e7bf4.png">
 
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/13322471/213938996-8afab58f-fa1d-4ad5-b46d-a9341637949e.png">
 
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/13322471/213939021-22cb576c-5be5-47de-9270-f75ab4f2e836.png">
 
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/13322471/213939031-e598d586-851f-488a-92a7-a5ce7878d881.png">
 
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/13322471/213939037-1f2c22b1-995a-4c5c-b61e-5a2bef4d1f20.png">
 
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/13322471/213939050-c3cc9c36-ae35-43b7-8175-d3777aae755a.png">
+
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/13322471/213939062-c5b93fa6-8419-423b-9a0c-9ded35cf833b.png">
 
 # Getting Started with Create React App
 
