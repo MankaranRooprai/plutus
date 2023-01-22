@@ -7,7 +7,7 @@
 # Expense Added to Budget
 <img width="622" alt="image" src="https://user-images.githubusercontent.com/13322471/213939021-22cb576c-5be5-47de-9270-f75ab4f2e836.png">
 
-# Expense Added to Budget
+# Second Expense Added to Budget
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/13322471/213939031-e598d586-851f-488a-92a7-a5ce7878d881.png">
 
 # Initial Screen (Background changes colour)
