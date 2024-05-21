@@ -1,4 +1,4 @@
-### Budget WebApp Tracker
+# Budget WebApp Tracker
 
 This is a simple web application built to help you manage your budgets and expenses efficiently. With this app, you can easily track your spending across different categories and stay within your financial limits.
 
