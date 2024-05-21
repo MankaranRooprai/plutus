@@ -1,3 +1,41 @@
+### Budget WebApp Tracker
+
+This is a simple web application built to help you manage your budgets and expenses efficiently. With this app, you can easily track your spending across different categories and stay within your financial limits.
+
+#### Features
+
+- **Add Budget**: Create new budgets for different expense categories.
+- **Add Expense**: Log your expenses under specific budgets to keep track of spending.
+- **View Expenses**: Check your expenses for each budget category.
+- **Financial Literacy Statistics**: Gain insights into your financial habits with statistics.
+
+#### Technologies Used
+
+- **React**: Frontend JavaScript library for building user interfaces.
+- **React Bootstrap**: Library providing pre-designed components for React apps.
+- **Context API**: React's Context API for managing application state.
+- **CSS**: Custom styling for a visually appealing user interface.
+
+#### Getting Started
+
+1. Clone this repository to your local machine.
+2. Install dependencies by running `npm install`.
+3. Start the development server with `npm start`.
+4. Access the application in your web browser at `http://localhost:3000`.
+
+#### Usage
+
+1. **Adding a Budget**:
+   - Click on "Add Budget" to create a new budget category.
+2. **Adding an Expense**:
+   - Click on "Add Expense" to log an expense under a specific budget.
+3. **Viewing Expenses**:
+   - Click on a budget card to view its expenses.
+4. **Financial Literacy Statistics**:
+   - Explore financial literacy statistics for insights into your spending habits.
+
+#### Screenshots
+
 # Initial Screen (Background changes colour)
 <img width="621" alt="image" src="https://user-images.githubusercontent.com/13322471/213938970-dc68a7b6-90de-4612-8589-90ff164e7bf4.png">
 
@@ -21,6 +59,16 @@
 
 # Over Budget
 <img width="615" alt="image" src="https://user-images.githubusercontent.com/13322471/213939242-3c137d94-e0ec-4083-85e8-1888ae396342.png">
+
+#### Contributors
+
+- [Mankaran Rooprai]
+- [Amaan Khakiani]
+- [Mujtaba Zaidi]
+
+#### Acknowledgments
+
+Special thanks to [React Bootstrap](https://react-bootstrap.github.io/) for providing the components used in this project.
 
 # Getting Started with Create React App
 
